@@ -1,6 +1,6 @@
 # Experimnets-on-Python-
-Hey guys hope you enozy this work of me where i did some funyy work on python.
-No before making 3d cude you should first install this extesnion
+Hey Guys hope you Enjoy this work of me where i did some funyy work on python.
+No Before making 3d Cube you should first install this Extesnion
 
 code --install-extension ms-python.python
 code --install-extension ms-toolsai.jupyter
